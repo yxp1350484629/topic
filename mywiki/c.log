@@ -1,0 +1,17 @@
+nohup: 忽略输入
+[2019-09-29 16:24:08,506: INFO/MainProcess] Connected to redis://127.0.0.1:6379/1
+[2019-09-29 16:24:08,530: INFO/MainProcess] mingle: searching for neighbors
+[2019-09-29 16:24:09,562: INFO/MainProcess] mingle: all alone
+[2019-09-29 16:24:09,588: WARNING/MainProcess] /usr/local/lib/python3.6/dist-packages/celery/fixups/django.py:202: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+[2019-09-29 16:24:09,588: INFO/MainProcess] celery@tedu ready.
+[2019-09-29 18:23:33,119: INFO/MainProcess] Connected to redis://127.0.0.1:6379/1
+[2019-09-29 18:23:33,128: INFO/MainProcess] mingle: searching for neighbors
+[2019-09-29 18:23:34,145: INFO/MainProcess] mingle: all alone
+[2019-09-29 18:23:34,153: WARNING/MainProcess] /usr/local/lib/python3.6/dist-packages/celery/fixups/django.py:202: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+[2019-09-29 18:23:34,154: INFO/MainProcess] celery@tedu ready.
+9-29 18:23:33,994: INFO/MainProcess] mingle: all alone
+[2019-09-29 18:23:34,005: WARNING/MainProcess] /usr/local/lib/python3.6/dist-packages/celery/fixups/django.py:202: UserWarning: Using settings.DEBUG leads to a memory leak, never use this setting in production environments!
+  warnings.warn('Using settings.DEBUG leads to a memory leak, never '
+[2019-09-29 18:23:34,006: INFO/MainProcess] celery@tedu ready.
