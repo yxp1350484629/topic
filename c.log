@@ -1,0 +1,5 @@
+nohup: 忽略输入
+Error: 
+Unable to load celery application.
+Module 'mywiki' has no attribute 'celery'
+
